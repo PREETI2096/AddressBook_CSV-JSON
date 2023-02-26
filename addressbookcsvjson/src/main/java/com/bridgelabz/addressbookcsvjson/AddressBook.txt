@@ -1,0 +1,9 @@
+Sl.no: 1
+First name:Preeti 
+Last name: Ghatage
+Address: Navalur
+City: Dharwad
+State: Karntaka
+Zip: 580009
+Phone number: 8553266345
+Email address: pree12@gmail.com
